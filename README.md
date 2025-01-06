@@ -16,8 +16,8 @@ Escuela Superior de Economia y Negocios (ESEN)|*La Libertad, El Salvador*
 
 Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 
--Generate outputs to propose preliminary investigations to detect anticompetition conducts.
+- Generate outputs to propose preliminary investigations to detect anticompetition conducts.
 
--Support the proposal and implementation of approved proactive and reactive detection and investigation tools and methods.
+- Support the proposal and implementation of approved proactive and reactive detection and investigation tools and methods.
 
 ### Projects
