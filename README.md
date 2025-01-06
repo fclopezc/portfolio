@@ -5,11 +5,11 @@
 # Education
 **Master of Science in Economics (_Oct 2023-Present_)**
 
-Ludwig-Maximilians-Universität (LMU)|*Munich, Germany*
+Ludwig-Maximilians-Universität (LMU)| *Munich, Germany*
 
 **Bachelor in Economics and Business (_Jan 2015-Jan2020_)**
 
-Escuela Superior de Economia y Negocios (ESEN)|*La Libertad, El Salvador*
+Escuela Superior de Economia y Negocios (ESEN)| *La Libertad, El Salvador*
 
 # Professional experience
 **Economist at Antitrust Investigation division (_Jul 2020- Sep 2023_ )**
