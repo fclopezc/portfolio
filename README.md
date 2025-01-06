@@ -13,8 +13,11 @@ Escuela Superior de Economia y Negocios (ESEN)|*La Libertad, El Salvador*
 
 # Professional experience
 **Economist at Antitrust Investigation division (_Jul 2020- Sep 2023_ )**
+
 Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
+
 -Generate outputs to propose preliminary investigations to detect anticompetition conducts.
+
 -Support the proposal and implementation of approved proactive and reactive detection and investigation tools and methods.
 
 ### Projects
