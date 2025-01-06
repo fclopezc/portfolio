@@ -30,7 +30,9 @@ Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 ### Projects
 
 **Postgraduate Diploma in Data Science (*Jul 2022-Jun 2023*)**
+
 Here you will find some assignments related to the courses of this certification issued by the Statistic Institute (accredited by the American Council on Education). These include topics of: *Data mining, predictive modeling, financial-risk modeling, Artificial Neural Networks and social engineering*.
+
 [Folder](/codes/predictive-analytics)
 
 
