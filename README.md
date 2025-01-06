@@ -4,9 +4,11 @@
 
 # Education
 **Master of Science in Economics (_Oct 2023-Present_)**
+
 Ludwig-Maximilians-Universität (LMU)|*Munich, Germany*
 
 **Bachelor in Economics and Business (_Jan 2015-Jan2020_)**
+
 Escuela Superior de Economia y Negocios (ESEN)|*La Libertad, El Salvador*
 
 # Professional experience
