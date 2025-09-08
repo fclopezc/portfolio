@@ -45,7 +45,7 @@ Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 
 # Projects
 
-**Double Machine Learning for Panel Data: (Master Thesis)**
+**Double Machine Learning for Panel Data: Application to R&D Investment (Master Thesis)**
 
 _Abstract:_ Research and development (R&D) is a crucial element for boosting firm innovation, productivity, and long-run competitiveness, but its level often depends on firm characteristics. This thesis estimates the causal effect of three financial ratios- Return-on-Assets (ROA), leverage, and the Market-to-Book (M/B) ratio- on R&D intensity. To do so, the analysis uses a balanced panel of 331 firms from Compustat Fundamental Annuals database (1980–2019), and applies Double Machine Learning (DML) method -via LASSO and XGBoost- adapted for panels: Correlated Random Effects (CRE), First-Difference (FD), and Neighbours-Leave-Out (NLO) cross-fitting. The results show a modest impact of these ratios: ROA tends to have a negative effect that is more stable under XGBoost but becomes statistically insignificant in joint models; leverage has a negative impact that is stable across learners; and the M/B ratio shows a small positive effect that fades once interactions of order greater than two are allowed. In sum, the findings indicate that leverage is the most stable factor among the different DML variants. However, its magnitude is weak and, like the other proposed drivers, its statistical significance disappears over time. This confirms a weak dependence in the sample and, therefore, the separation of temporal blocks is viable in firm-level studies.
 
