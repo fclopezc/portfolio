@@ -3,7 +3,7 @@
 ### Technical skills: R, Python, STATA, Power BI, Tableau, SQL, Excel VBA
 
 # Education
-**Master of Science in Economics (_Oct 2023-Present_)**
+**Master of Science in Economics (_Oct 2023-September 2025_)**
 
 Ludwig-Maximilians-Universität (LMU)| *Munich, Germany*
 
@@ -13,7 +13,7 @@ Escuela Superior de Economia y Negocios (ESEN)| *La Libertad, El Salvador*
 
 # Professional experience
 
-**Intern at Performance and Financial Management (_Jul 2020- Sep 2023_ )**
+**Intern at Performance and Financial Management (_Mar 2025- Sep 2025_ )**
 
 MINI – BMW Group| *Munich, Germany*
 
