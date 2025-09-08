@@ -12,7 +12,23 @@ Ludwig-Maximilians-Universität (LMU)| *Munich, Germany*
 Escuela Superior de Economia y Negocios (ESEN)| *La Libertad, El Salvador*
 
 # Professional experience
-**Economist at Antitrust Investigation division (_Jul 2020- Sep 2023_ )**
+
+**Intern at Performance and Financial Management (_Jul 2020- Sep 2023_ )**
+
+MINI – BMW Group| *Munich, Germany*
+
+- Automatize data extraction and reporting using SAP Analytics for Office, reducing
+turnaround time for KPI dashboards and management presentations.
+
+- Build predictive models via SARIMA method to assess sales expansions and risks in
+different markets.
+
+- Design interactive Power BI dashboards to visualize sales evolution of principal agents in
+the automotive industry, across different markets.
+
+- Collaborate with cross-functional teams to integrate data insights into decision-making.
+
+**Associate economist at Antitrust division (_Jul 2020- Sep 2023_ )**
 
 Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 
@@ -28,6 +44,10 @@ Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 - Examine compliance of conditions imposed to remedy possible competition harms.
 
 # Projects
+
+**Double Machine Learning for Panel Data: (Master Thesis)**
+
+Brief
 
 **Effects of tourism on income and education in the youth population: the case of El Salvador**
 
