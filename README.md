@@ -1,6 +1,10 @@
 # Economist
 
-### Technical skills: R, Python, STATA, Power BI, Tableau, SQL, Excel VBA
+## Technical skills
+- **Data Analysis:** R, Python, STATA
+- **Visualization:** Power BI, DAX, Tableau
+- **Database Management:** SQL, SAP-AfO
+- **Automation:** MS Excel VBA, Power Apps, Microsoft Office Suite™
 
 # Education
 **Master of Science in Economics (_Oct 2023-September 2025_)**
@@ -17,31 +21,41 @@ Escuela Superior de Economia y Negocios (ESEN)| *La Libertad, El Salvador*
 
 MINI – BMW Group| *Munich, Germany*
 
-- Automatize data extraction and reporting using SAP Analytics for Office, reducing
-turnaround time for KPI dashboards and management presentations.
+- Automated KPI reporting and financial dashboards, reducing 80% of the monthly time previously dedicated to manual reporting.
 
-- Build predictive models via SARIMA method to assess sales expansions and risks in
-different markets.
+- Designed and implemented interactive dashboards using SAP Analytics for Office to track sales, market performance, and competitor activity, enabling weekly and monthly management meetings to access real-time insights within 30 minutes.
 
-- Design interactive Power BI dashboards to visualize sales evolution of principal agents in
-the automotive industry, across different markets.
+- Conducted cross-price elasticity analyses across markets to quantify competitive pressure and identify key competitors, supporting strategic decision-making.
 
-- Collaborate with cross-functional teams to integrate data insights into decision-making.
+- Applied SARIMA time series models for sales forecasting and market risk assessment, providing actionable insights to anticipate trends and potential market opportunities.
+
+- Developed data pipelines and manipulated large datasets, integrating structured and unstructured data to streamline reporting and improve data quality.
 
 **Associate economist at Antitrust division (_Jul 2020- Sep 2023_ )**
 
 Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 
-- Generate outputs to propose preliminary investigations to detect anticompetition conducts.
+- Developed dynamic Power BI dashboards to monitor market behavior and alert regulators to potential collusion or market failures, improving market monitoring efficiency.
 
-- Support the proposal and implementation of approved proactive and reactive detection and investigation tools and methods.
+- Conducted time series and cointegration analyses on sales data to identify unjustified price increases and participation levels among market agents, providing evidence for regulatory action.
+
+- Automated reporting processes using VBA, increasing efficiency and accessibility for team members with varying technical backgrounds.
+
+- Led data-driven monitoring of associations and public bidding activities, informing regulatory recommendations and interventions.
 
 **Junior economist at Mergers and Acquisitions division (*Oct 2020- Jul 2022*)**
 
 Superintendencia de Competencia (Competition Agency)| *La Libertad, El Salvador*
 
-- Analyze and project the effect of mergers and acquisitions through data processing, econometric modeling, and computational simulations.
-- Examine compliance of conditions imposed to remedy possible competition harms.
+- Evaluated merger impacts using the Almost Ideal Demand System model to estimate cross-price elasticities, quantifying the effects of pricing and advertising on market competition.
+
+- Forecasted sales and investment perspectives post-merger using time series analysis (SARIMA) in R, supporting regulatory recommendations.
+
+- Structured datasets from multiple market participants through SQL, enabling real-time data analysis and improved efficiency in merger assessments.
+
+- Performed cash-flow and CAPEX analyses to assess the validity of divestment strategies, informing regulatory oversight decisions.
+
+- Facilitated faster and more accurate M&A assessments by automating data collection and processing workflows.
 
 # Projects
 
